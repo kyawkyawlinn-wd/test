@@ -1,0 +1,25 @@
+ p {
+    color: aqua;
+    font-size: 20px;
+    text-align: center;
+ }
+
+ table, th, td{
+   border: 1px solid orange;
+   border-collapse: collapse;
+   text-align: center;
+   height: 40px;
+   font-size: 20px;
+ }
+
+ thead {
+   background-color: rgb(155, 132, 90);
+   color: white;
+ }
+
+
+
+ tr:hover {
+  cursor: pointer;
+}
+
